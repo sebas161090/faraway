@@ -1,7 +1,7 @@
 const App = () => {
 
   return (
-    <div>Bienvenidos a Faraway</div>
+    <p>Bienvenidos a Faraway</p>
   )
 }
 export default App
